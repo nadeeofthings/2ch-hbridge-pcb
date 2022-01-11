@@ -1,7 +1,7 @@
 ﻿# H-Bridge Driver
 
 This is where all the design files for the **H-Bridge Driver** is saved. 
-![Render](https://raw.githubusercontent.com/nadeeofthings/2ch-hbridge-pcb/main/Render.png)
+![Render](https://raw.githubusercontent.com/nadeeofthings/2ch-hbridge-pcb/main/Render.PNG)
 
 # Specifications
 
