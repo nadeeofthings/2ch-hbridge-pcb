@@ -1,7 +1,16 @@
-﻿# DPS3005 Based Bench PSU
+﻿# H-Bridge Driver
 
-This is where all the design files for the **Ginger Wash Plant** is saved. 
-![Render](https://raw.githubusercontent.com/nadeeofthings/bench-psu/main/Render.png)
+This is where all the design files for the **H-Bridge Driver** is saved. 
+![Render](https://raw.githubusercontent.com/nadeeofthings/2ch-hbridge-pcb/main/Render.png)
+
+# Specifications
+
+ - Channels - 2
+ - Input voltage - 12V - 48V
+ - Output current - 100A
+ - Control input voltage - 12V
+ - IO - 2x Analog in, 2x Digital in, 2x Digital out (control) 
+ - Output filter type - LC
 
 # Folders
 
